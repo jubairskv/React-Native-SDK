@@ -2,7 +2,7 @@
   "name": "react-native-my-library",
   "version": "0.1.0",
   "description": "react-native-my-library",
-  "source": "./src/index.tsx",
+  "source": "./src/index.jsx",
   "main": "./lib/commonjs/index.js",
   "module": "./lib/module/index.js",
   "exports": {
