@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Button, View, Text } from 'react-native';
-import mylibrary from 'react-native-my-library';
+import mylibrary from 'react-native-my-library-jubairk';
 
 const App = () => {
   const [dummyText, setDummyText] = useState('');

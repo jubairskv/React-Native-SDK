@@ -5,18 +5,17 @@ react-native-my-library
 ## Installation
 
 ```sh
-npm install react-native-my-library
+npm i react-native-my-library-jubairk
 ```
 
 ## Usage
 
 
 ```js
-import { multiply } from 'react-native-my-library';
+import mylibrary from 'react-native-my-library-jubairk';
 
-// ...
-
-const result = await multiply(3, 7);
+const text = await mylibrary.getDummyText();
+console.log(text); 
 ```
 
 

@@ -2,6 +2,7 @@
   "name": "react-native-my-library-jubairk",
   "version": "0.1.0",
   "description": "react-native-my-library",
+  "private": false,
   "source": "./src/index.jsx",
   "main": "./lib/commonjs/index.js",
   "module": "./lib/module/index.js",
