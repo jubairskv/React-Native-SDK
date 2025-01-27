@@ -8,7 +8,7 @@ import com.facebook.react.bridge.Promise
 class MyLibraryModule(reactContext: ReactApplicationContext) : ReactContextBaseJavaModule(reactContext) {
 
     override fun getName(): String {
-        return "MyLibrary"
+        return "mylibrary"
     }
 
     @ReactMethod
